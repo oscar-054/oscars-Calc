@@ -1,7 +1,3 @@
-## oscars Calc
-
-A small always-on-top overlay for Windows that helps with 6-ball puzzle codes in Apeirophobia.
-
 ## Install
 
 Go to the Releases page
