@@ -26,8 +26,6 @@ Right click an option that has a bind already to un-bind it.
 
 My binds don't do anything Open Test My Binds. If it says the keyboard hook is not running, right-click the app and choose Run as administrator. This is needed in some games and setups.
 
-Antivirus flags it The app uses global keyboard and mouse hooks, which some antivirus programs treat as suspicious. It's a false positive, but you may need to add an exception.
-
 Settings window or overlay is off-screen Use the overlay presets to snap it back to a corner.
 
 ### If you have any ideas on what to add or find any bugs message me on discord my user is: oscar_054
